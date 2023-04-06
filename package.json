@@ -3,5 +3,9 @@
   "name": "miniflux-custom-css",
   "version": "0.1.0",
   "author": "Sigsign <sig@signote.cc>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "stylelint": "^15.4.0",
+    "stylelint-config-standard": "^32.0.0"
+  }
 }
