@@ -27,7 +27,7 @@
 /* font size and line height */
 .entry-content {
   font-size: 1em;
-  line-height: 2.0;
+  line-height: 1.625;
 }
 
 @media (width <= 600px) {
