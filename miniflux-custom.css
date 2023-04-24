@@ -11,6 +11,13 @@
   --entry-content-font-family: var(--font-family)
 }
 
+.entry-content code {
+  font-family: Consolas,
+    "BIZ UDGothic",
+    Meiryo,
+    monospace;
+}
+
 /* Show image like Reeder */
 @media (width <= 600px) {
   .entry-content {
