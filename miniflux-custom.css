@@ -12,7 +12,10 @@
 }
 
 .entry-content code {
-  font-family: Consolas,
+  font-family: Monaco,
+    Menlo,
+    'Ubuntu Mono',
+    Consolas,
     "BIZ UDGothic",
     Meiryo,
     monospace;
